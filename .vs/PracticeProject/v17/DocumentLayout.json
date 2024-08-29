@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ICareManager\\PracticeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\leetcode\\countingbits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\leetcode\\countingbits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\list-ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\list-ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\arrays-ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\arrays-ds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\diagonaldifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\diagonaldifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\gradingstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\gradingstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\lonelyinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\lonelyinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\findmedian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\findmedian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\minimaxsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\minimaxsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\applesandoranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\applesandoranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\bigsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\bigsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|c:\\projects\\icaremanager\\practiceproject\\practiceproject\\problems\\timeconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5209DCE-725B-4DC5-8419-10148FD49AB7}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\problems\\timeconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountingBits.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\LeetCode\\CountingBits.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\LeetCode\\CountingBits.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\LeetCode\\CountingBits.cs",
+              "RelativeToolTip": "PracticeProject\\LeetCode\\CountingBits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:30:18.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List-DS.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\List-DS.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\List-DS.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\List-DS.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\List-DS.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:48:24.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindMedian.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\FindMedian.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\FindMedian.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\FindMedian.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\FindMedian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:19:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LonelyInteger.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\LonelyInteger.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\LonelyInteger.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\LonelyInteger.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\LonelyInteger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:44:12.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlusMinus.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\PlusMinus.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\PlusMinus.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\PlusMinus.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\PlusMinus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:09:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arrays-DS.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\Arrays-DS.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\Arrays-DS.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\Arrays-DS.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\Arrays-DS.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:45:55.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\TwoSum.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\TwoSum.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\TwoSum.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\TwoSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:34:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BigSorting.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\BigSorting.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\BigSorting.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\BigSorting.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\BigSorting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:29:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplesAndOranges.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\ApplesAndOranges.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\ApplesAndOranges.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\ApplesAndOranges.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\ApplesAndOranges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:05:04.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradingStudents.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\GradingStudents.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\GradingStudents.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\GradingStudents.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\GradingStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:12:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeConversion.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\TimeConversion.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\TimeConversion.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\TimeConversion.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\TimeConversion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:43:57.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiniMaxSum.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\MiniMaxSum.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\MiniMaxSum.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\MiniMaxSum.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\MiniMaxSum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:01:35.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiagonalDifference.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\DiagonalDifference.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Problems\\DiagonalDifference.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Problems\\DiagonalDifference.cs",
+              "RelativeToolTip": "PracticeProject\\Problems\\DiagonalDifference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:45:45.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Program.cs",
+              "ToolTip": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeToolTip": "PracticeProject\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T02:09:50.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
