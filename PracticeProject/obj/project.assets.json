@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+      "projectUniqueName": "C:\\Maaz\\Projects\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
       "projectName": "PracticeProject",
-      "projectPath": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+      "projectPath": "C:\\Maaz\\Projects\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ICareManager\\PracticeProject\\PracticeProject\\obj\\",
+      "outputPath": "C:\\Maaz\\Projects\\PracticeProject\\PracticeProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
